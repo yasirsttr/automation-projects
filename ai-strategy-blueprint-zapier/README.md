@@ -24,7 +24,7 @@ Jotform → Zapier Trigger → AI Agent (content generation) → Google Docs (te
 ## Demo
 _Add screenshots here once uploaded:_  
 ![Zapier Flow](./Final%20ZAP.png)  
-![Jotform](./jotform%20Form.png)
+![Jotform](./Jotform%20Form.png)
 
 ## Import / Run
 1. Import Zapier workflow from `.zapier.json` or replicate steps in Zapier UI.

@@ -21,7 +21,6 @@ Built a scheduled **n8n workflow** that:
 Cron Trigger → HTTP Request (weather API) → Slack Message → Email Message
 
 ## Demo
-_Add screenshots here once uploaded:_  
 ![Workflow](./Workflow.png)
 
 ## Import / Run

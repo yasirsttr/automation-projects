@@ -26,8 +26,7 @@ Webhook → Parse/Validate → LLM (classify/complete fields) → IF (order?)
 
 ## Demo
 _Add screenshots here once uploaded:_  
-![Chatbot Flow](./chatbot-flow.png)  
-![Sheet Log](./sheet-log.png)
+![WorkFlow](./Workflow.png)
 
 ## Import / Run
 1. **n8n → Import from file** (`Workflow.json`) and open workflow.

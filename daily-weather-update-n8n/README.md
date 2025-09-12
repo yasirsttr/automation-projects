@@ -30,6 +30,3 @@ _Add screenshots here once uploaded:_
    - Slack Webhook URL or Slack App Bot Token.
    - SMTP credentials for Email.
 3. Adjust the **location (Islamabad)** in the HTTP Request node if needed.
-
-## Environment Template
-Create `.env.example` in this folder:

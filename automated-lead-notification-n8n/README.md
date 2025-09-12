@@ -36,8 +36,7 @@ Gmail Trigger → IF (urgent?)
 → True: Email Alert + Google Sheets Log  
 → False: Slack Message + Email Alert + Google Sheets Log
 
-## Demo
-_Add screenshots here once uploaded:_  
+## Demo  
 ![Workflow](./workflow.png)
 
 ## Import / Run

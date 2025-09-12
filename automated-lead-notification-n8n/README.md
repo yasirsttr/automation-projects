@@ -48,6 +48,3 @@ _Add screenshots here once uploaded:_
    - Google Sheets API credentials
    - SMTP for sending alerts
 3. Adjust keyword logic ("urgent") if needed.
-
-## Environment Template
-Create `.env.example` in this folder:

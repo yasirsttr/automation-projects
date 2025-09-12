@@ -24,4 +24,4 @@ The client needed a way to prevent sales pipeline overload in GoHighLevel by lim
 ## Demo
 ![WorkFlow_n8n](./Workflow%20execution.png)
 ![WorkFlow_GHL](./GHL%20Workflow.png)
-![Pipeline](./Pipeline%20stages.png)
+![Pipeline](./Pipelpine%20stages.png)

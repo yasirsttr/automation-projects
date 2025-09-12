@@ -25,7 +25,6 @@ Webhook → Parse/Validate → LLM (classify/complete fields) → IF (order?)
 - ~**10+ hours/week** saved vs. manual triage.
 
 ## Demo
-_Add screenshots here once uploaded:_  
 ![WorkFlow](./Workflow.png)
 
 ## Import / Run
@@ -38,5 +37,3 @@ _Add screenshots here once uploaded:_
 3. Set environment variables or node creds (see `.env.example`).
 4. Activate workflow and test via webhook.
 
-## Environment Template
-Create `.env.example` in this folder:

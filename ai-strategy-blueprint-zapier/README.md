@@ -22,7 +22,6 @@ The client needed a way to generate **personalized strategy blueprints** for use
 Jotform → Zapier Trigger → AI Agent (content generation) → Google Docs (template fill) → Gmail (send PDF)
 
 ## Demo
-_Add screenshots here once uploaded:_  
 ![Zapier Flow](./Final%20ZAP.png)  
 ![Jotform](./Jotform%20Form.png)
 

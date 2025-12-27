@@ -58,7 +58,7 @@ I designed and implemented a centralized automation architecture using GoHighLev
 - Use Case Fit
 
 ## DEMO:
-![IntakeWorkFlow](./LeadIntakeWorkflow.png)
+![IntakeWorkFlow](./Lead Intake Workflow.png)
 
 ## Built By:
 Yasir Sattar

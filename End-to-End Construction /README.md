@@ -1,9 +1,9 @@
-Overview:
+## Overview:
 This project showcases a fully automated, production-ready client lifecycle system built for a construction company to manage leads, sales activities, project creation, and long-term re-engagement using no-code automation platforms.
 
 The system was designed to eliminate manual data entry, ensure data accuracy, and provide a scalable foundation for business growth.
 
-Problem
+## Problem
 The client faced multiple operational challenges:
 
 - Leads arriving from multiple sources (website, calls, emails, referrals) with no unified system
@@ -14,17 +14,17 @@ The client faced multiple operational challenges:
 
 This resulted in missed follow-ups, slower response times, and inefficient project handoffs.
 
-Solution:
+## Solution:
 
 I designed and implemented a centralized automation architecture using GoHighLevel as the CRM layer and Zapier as the integration bridge to JobTread.
 
-Core Tools Used:
+## Core Tools Used:
 - GoHighLevel (GHL) – CRM, pipelines, workflows, communication
 - Zapier – Integration layer between GHL and JobTread
 - JobTread – Project management & estimating system
 - APIs & Webhooks – Workflow triggers and data synchronization
 
-Key Features:
+## Key Features:
 - Multi-Source Lead Intake
 - Website forms
 - Manual internal intake
@@ -49,7 +49,7 @@ Key Features:
 - Scalable Architecture
 - Easy to extend with new lead sources, automations, or reporting layers
 
-Impact:
+## Impact:
 - Reduced manual data entry across sales and operations
 - Eliminated data loss between intake and pipeline creation
 - Faster response times to new leads
@@ -57,8 +57,8 @@ Impact:
 - Scalable system ready for future growth without rework
 - Use Case Fit
 
-Built By:
-
+## Built By:
 Yasir Sattar
 Automation Architect | Workflow Automation Engineer
 Specializing in n8n, GoHighLevel, Zapier, AI-assisted workflows, and CRM systems
+

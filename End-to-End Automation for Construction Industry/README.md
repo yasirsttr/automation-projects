@@ -57,9 +57,6 @@ I designed and implemented a centralized automation architecture using GoHighLev
 - Scalable system ready for future growth without rework
 - Use Case Fit
 
-## DEMO:
-![IntakeWorkFlow](./Lead Intake Workflow.png)
-
 ## Built By:
 Yasir Sattar
 Automation Architect | Workflow Automation Engineer
